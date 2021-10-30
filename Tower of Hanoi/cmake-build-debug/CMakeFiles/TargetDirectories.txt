@@ -1,0 +1,3 @@
+C:/Users/USER/CLionProjects/Data Structures/Tower of Hanoi/cmake-build-debug/CMakeFiles/Tower_of_Hanoi.dir
+C:/Users/USER/CLionProjects/Data Structures/Tower of Hanoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/CLionProjects/Data Structures/Tower of Hanoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
